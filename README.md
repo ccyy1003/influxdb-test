@@ -6,8 +6,8 @@
 make influxdb-test
 ```
 ## 2、本地启动和云端启动
-<img width="652" alt="image" src="https://github.com/ccyy1003/influxdb-test/assets/135438861/ecbc3e2b-fe2d-437b-9135-add60589ac13">
-  云端启动后可在web端用ip：port/router访问，如x.x.x.x:8080/influxdb_test/cq
+<img width="652" alt="image" src="https://github.com/ccyy1003/influxdb-test/assets/135438861/ecbc3e2b-fe2d-437b-9135-add60589ac13">  
+云端启动后可在web端用ip：port/router访问，如x.x.x.x:8080/influxdb_test/cq
 
 ## 3、发送请求路由
 
